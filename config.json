@@ -1,6 +1,6 @@
 {
-    "location": "24.071428,120.5450983",
+    "location": "24.074339,120.545390",
     "radius": 1000,
-    "types": "food|restaurant|bakery|cafe",
+    "types": "place_of_worship|lodging|park|museum|shopping_mall",
     "language": "zh-TW"
 }
